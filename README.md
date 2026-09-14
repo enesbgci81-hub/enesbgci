@@ -51,9 +51,9 @@ Focused on clean architecture, high availability, performance, and modern applic
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enesbgc81-hub&theme=tokyonight" alt="GitHub Streak" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=enesbgc81-hub&show_icons=true&theme=tokyonight" alt="Stats" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesbgc81-hub&layout=compact&theme=tokyonight" alt="Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enesbgc81-hub&theme=tokyonight&hide_border=true" alt="GitHub Streak" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=enesbgc81-hub&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesbgc81-hub&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" />
 </p>
 
 ---
