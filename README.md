@@ -16,6 +16,7 @@ Focused on clean architecture, high availability, performance, and modern applic
 ### 🚀 About Me
 
 - 👨‍💻 Working as a Full-Stack & Mobile Software Engineer  
+- 🌐 Portfolio & Website: [enesbagci.com.tr](https://www.enesbagci.com.tr)
 - 📱 Specialize in building cross-platform applications with **Flutter** & **Clean Architecture**  
 - ⚙️ Architecting scalable backends using **Node.js**, **Java**, and **.NET**  
 - 🌱 Continuously expanding my knowledge in system design & modern ecosystems  
@@ -48,11 +49,10 @@ Focused on clean architecture, high availability, performance, and modern applic
 
 ---
 
-
-
 ### 🌐 Connect with Me
 
 <p align="center">
+<a href="https://www.enesbagci.com.tr" target="_blank"><img src="https://img.shields.io/badge/-Website-4A154B?logo=google-chrome&logoColor=white" /></a>
 <a href="mailto:enesbgc81@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/enesbgc81-hub"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/enesbgci/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
